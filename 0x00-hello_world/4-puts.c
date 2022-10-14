@@ -2,7 +2,7 @@
 /**
  * main - Entry point print a line of code by using puts
  *
- * return:| 0
+ * Return:| 0
 */
 int main(void)
 {
