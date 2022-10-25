@@ -1,34 +1,34 @@
 #include "main.h"
-#include <string.h>
+
 #include <stdio.h>
 
 
 
 /**
- * main - check the code
+ *  * main - check the code
  *
+ *   *
  *
+ *    * Return: Always 0.
  *
- * Return: Always 0.
- *
- */
+ *     */
 
 int main(void)
 
 {
-	char *x = "Hello world";
-	char *s = &x;
 
-	int len;
+	    char *str;
 
-	for (; *s != '\0'; s++)
+	        int len;
 
-	{
-		len += 1;
-		s++;
-	}
-	printf("%d\n", strlen(x));
-	printf("Learn Programming Africa\n")
 
-		return (0);
+
+		    str = "My first strlen!";
+
+		        len = _strlen(str);
+
+			    printf("%d\n", len);
+
+			        return (0);
+
 }
