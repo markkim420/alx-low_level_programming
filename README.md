@@ -1,1 +1,1 @@
-low level programming alx
+more about pointer, arrays and strings
