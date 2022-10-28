@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strcat -concatenates two strings
- * @dest - string copied to
- * &src - string being copied from
+ * _strcat - concatenates two strings
+ * @dest: string copied to
+ * @src: string being copied from
  *
  * Return: pointer to dest
  */
